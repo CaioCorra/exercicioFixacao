@@ -1,1 +1,0 @@
-Repositório criado para o exercício de fixação do Git e GitHub do aluno Caio César.
